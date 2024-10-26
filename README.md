@@ -1,4 +1,4 @@
-# 👋 Hi, I’m @renu-sulthan
+# 👋 Hi, I’m @Renu
 
 ## 👀 Interests
 I’m passionate about full-stack development, particularly in Java and web technologies. In my spare time, you can find me playing volleyball and badminton!
