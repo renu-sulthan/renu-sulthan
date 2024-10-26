@@ -11,7 +11,7 @@ I’m eager to collaborate on open-source projects, web applications, and API de
 
 ## 📫 How to Reach Me
 - [LinkedIn](https://www.linkedin.com/in/renuupendra/)
-- Email: renuupendrasulthan1@gmail.com
+- Email: renuupendras130@gmail.com
 
 ## 😄 Pronouns: 
 He/Him
