@@ -4,7 +4,7 @@
 I’m passionate about full-stack development, particularly in Java and web technologies. In my spare time, you can find me playing volleyball and badminton!
 
 ## 🌱 Currently Learning
-I’m diving into React to improve my frontend development skills, learning Selenium with Java for automation testing, and exploring modern Java frameworks.
+I’m diving into React to improve my frontent skills and data structures & algorithms in java.
 
 ## 💞️ Looking to Collaborate On
 I’m eager to collaborate on open-source projects, web applications, and API development. I’m also open to freelance opportunities where I can contribute my skills. Let’s connect and create something great together!
